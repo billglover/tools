@@ -6,6 +6,7 @@ A list of tools I use to get stuff done
 
 - [Neovim](https://neovim.io)
 - [VSCode](https://code.visualstudio.com)
+- [Bear](http://www.bear-writer.com)
 
 ## Terminal
 
