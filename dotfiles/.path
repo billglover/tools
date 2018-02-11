@@ -2,3 +2,6 @@
 
 # brew path
 export PATH=/usr/local/bin:${PATH}
+
+# go path
+export PATH=~/go/bin:${PATH}
