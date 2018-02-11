@@ -7,5 +7,5 @@ dotfiles:
 	done;
 
 nvim:
+	mkdir -p ~/.config/nvim
 	@ln -sfn $(CURDIR)/nvim/init.vim $(HOME)/.config/nvim/init.vim
-	#@ln -sfn $(CURDIR)/nvim/init.vim $(HOME)/.nvimrc
