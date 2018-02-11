@@ -19,9 +19,9 @@ alias lla='ll -A'
 alias lsa='ls -A'
 
 # Add bash completion
-for file in /usr/local/etc/bash_completion.d/* ; do
-   source $file
-done
+#for file in /usr/local/etc/bash_completion.d/* ; do
+#   source $file
+#done
 
 # use a tty for gpg
 GPG_TTY=$(tty)
